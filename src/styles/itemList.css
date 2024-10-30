@@ -1,0 +1,10 @@
+.BoxItem{
+    transition: 1s;
+    height: 600px;
+}
+
+.BoxItem:hover{
+    transition: 1s;
+    background-color:rgb(0, 81, 255);
+    color: black;
+}
